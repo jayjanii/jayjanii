@@ -17,4 +17,4 @@
   - Climbing 🧗‍♂️ 
   - Hiking 🏞️
 ⠀
-### [My Website! (WIP)](jay-jani.com)
+### [My Website! (WIP)](https://jay-jani.com)
