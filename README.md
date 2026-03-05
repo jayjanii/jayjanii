@@ -14,4 +14,4 @@
 [![Setup1](https://skillicons.dev/icons?i=linux,neovim,vim)](https://skillicons.dev)⠀⠀⠀⠀[![Setup2](https://skillicons.dev/icons?i=apple,vscode)](https://skillicons.dev)⠀⠀⠀⠀[![Setup3](https://skillicons.dev/icons?i=windows,visualstudio,powershell,)](https://skillicons.dev)
 
 ⠀
-### [My Website! (Currently WIP)](jay-jani.com)
+### [My Website! (WIP)](jay-jani.com)
