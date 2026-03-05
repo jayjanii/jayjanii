@@ -3,7 +3,7 @@
 ### Currently studying Computer Science at UCSC.
 
 ### Languages I'm Using
-[![Lang1](https://skillicons.dev/icons?i=py,cpp,c,latex,lua)](https://skillicons.dev)⠀⠀⠀[![Lang2](https://skillicons.dev/icons?i=js,astro,html)](https://skillicons.dev)
+[![Lang1](https://skillicons.dev/icons?i=py,cpp,c,latex,lua)](https://skillicons.dev)⠀⠀⠀[![Lang2](https://skillicons.dev/icons?i=js,astro,html,css)](https://skillicons.dev)
 
 ### Currently Learning
 [![Learning](https://skillicons.dev/icons?i=rust,pytorch,opencv,fastapi,cloudflare)](https://skillicons.dev)
