@@ -9,7 +9,7 @@
 [![Learning](https://skillicons.dev/icons?i=rust,pytorch,opencv,fastapi,cloudflare)](https://skillicons.dev)
 
 ### Current Setups
-[![Setup1](https://skillicons.dev/icons?i=linux,neovim,vim)](https://skillicons.dev)⠀⠀⠀⠀[![Setup2](https://skillicons.dev/icons?i=apple,vscode)](https://skillicons.dev)⠀⠀⠀⠀[![Setup3](https://skillicons.dev/icons?i=windows,visualstudio,powershell,)](https://skillicons.dev)
+[![Setup1](https://skillicons.dev/icons?i=linux,neovim)](https://skillicons.dev)⠀⠀⠀⠀[![Setup2](https://skillicons.dev/icons?i=apple,vscode)](https://skillicons.dev)⠀⠀⠀⠀[![Setup3](https://skillicons.dev/icons?i=windows,visualstudio,powershell,)](https://skillicons.dev)
 
 ⠀
 ### Hobbies
