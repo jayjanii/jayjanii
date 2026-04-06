@@ -1,5 +1,7 @@
 # Hi, I'm Jay!
 
+### [My Website!](https://jay-jani.com)
+
 ### Currently studying Computer Science at UCSC.
 
 ### Languages I'm Using
@@ -16,5 +18,3 @@
   - Swimming 🏊‍♂️ 
   - Climbing 🧗‍♂️ 
   - Hiking 🏞️
-⠀
-### [My Website! (WIP)](https://jay-jani.com)
