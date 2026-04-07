@@ -14,7 +14,7 @@
 [![Setup1](https://skillicons.dev/icons?i=linux,neovim)](https://skillicons.dev)⠀⠀⠀⠀[![Setup2](https://skillicons.dev/icons?i=apple,vscode)](https://skillicons.dev)⠀⠀⠀⠀[![Setup3](https://skillicons.dev/icons?i=windows,visualstudio,powershell,)](https://skillicons.dev)
 
 ⠀
-### Hobbies
-  - Swimming 🏊‍♂️ 
-  - Climbing 🧗‍♂️ 
-  - Hiking 🏞️
+### In my free time I...
+  - Swim 🏊‍♂️ 
+  - Climb 🧗‍♂️ 
+  - Hike 🏞️
